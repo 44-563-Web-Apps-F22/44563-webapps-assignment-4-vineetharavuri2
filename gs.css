@@ -12,10 +12,9 @@ h3{
     font-size: 15px;
     font-style: italic;
 }
-.mar{
-
-    color:mediumorchid;
-    font-size: 15px;
+.mar:hover{
+      color:mediumorchid;
+      font-size: 15px;
 }
 
 .all{
