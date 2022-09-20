@@ -1,21 +1,7 @@
-p:hover {
-    background-color:blue;
-    color:goldenrod;
-}
-h4{
-    color: brown;
-    font-size:15px;
-    font-style: inherit;
-}
-h3{
-    color:coral;
-    font-size: 15px;
-    font-style: italic;
-}
-.mar:hover{
+.mar{
+
     color:mediumorchid;
     font-size: 15px;
-    background-color:aquamarine;
 }
 
 .all{
@@ -38,11 +24,7 @@ h3{
     color:darkblue;
     font-size: 15px;
 }
-.tess:hover{
-    color:darkred;
-    font-size: 15px;
-    background-color: orchid;
-}
+
 .anni{
 
     color:coral;
@@ -50,7 +32,7 @@ h3{
 
 }
 .cas{
-    color:fuchsia;
+    color:orange;
     font-size: 15px;
 }
 .luiz{
