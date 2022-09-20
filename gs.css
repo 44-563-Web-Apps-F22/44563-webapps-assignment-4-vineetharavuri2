@@ -1,3 +1,17 @@
+p:hover {
+    background-color:green;
+    color:goldenrod;
+}
+h4{
+    color: yellow;
+    font-size:15px;
+    font-style: inherit;
+}
+h3{
+    color:aquamarine;
+    font-size: 15px;
+    font-style: italic;
+}
 .mar{
 
     color:mediumorchid;
@@ -14,6 +28,12 @@
     
     color:indigo;
     font-size: 15px;
+}
+
+.tess:hover{
+    color:darkblue;
+    font-size: 15px;
+    background-color:orchid;
 }
 
 .gio{
