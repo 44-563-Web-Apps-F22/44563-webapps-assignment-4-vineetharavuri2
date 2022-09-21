@@ -1,3 +1,19 @@
+.scene{
+    color:darkslateblue;
+}
+
+.speech{
+    color:black;
+    font-size:20px;
+    text-decoration: solid;
+}
+.song{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: solid;
+    text-decoration-color: lightcoral;
+}
 p:hover {
     background-color:green;
     color:goldenrod;
