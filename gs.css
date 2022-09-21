@@ -38,11 +38,7 @@ h6{
     font-size:15px;
     font-style: inherit;
 }
-h3{
-    color:aquamarine;
-    font-size: 15px;
-    font-style: italic;
-}
+
 .mar{
       color:mediumorchid;
       font-family:'Times New Roman', Times, serif;
@@ -63,11 +59,12 @@ h3{
     font-size: 15px;
 }
 
-.tess{
+.tess:hover{
     color:darkblue;
     font-family:'Times New Roman', Times, serif;
     font-size: 15px;
     background-color:orchid;
+    filter:blur(2px)
 }
 
 .gio{
@@ -75,12 +72,20 @@ h3{
     font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
-.gia{
+.gia:hover{
     color:darkblue;
     font-family:'Times New Roman', Times, serif;
     font-size: 15px;
+    filter: blur(2px);
+    text-shadow: 2px;
 }
-
+.both:hover{
+    color:blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    filter: blur(2px);
+    text-shadow: 3px;
+}
 .anni{
 
     color:coral;
