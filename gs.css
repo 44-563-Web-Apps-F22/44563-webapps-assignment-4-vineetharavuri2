@@ -16,12 +16,16 @@
     text-decoration-color: lightcoral;
     text-indent: 40px;
 }
+.hover{
+    color:aquamarine;
+    font-family:'Times New Roman', Times, serif;
+}
 .name{
     color:black;
     font-family:'Times New Roman', Times, serif;
     font-size:20px;
 }
-.direction{
+.direction :hover{
     color:black;
     font-family:'Times New Roman', Times, serif;
     font-size:20px;
