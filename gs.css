@@ -14,6 +14,7 @@
     font-size: 20px;
     text-decoration: solid;
     text-decoration-color: lightcoral;
+    text-indent: 40px;
 }
 .name{
     color:black;
@@ -26,11 +27,7 @@
     font-size:20px;
 
 }
-p:hover {
-    background-color:green;
-    font-family:'Times New Roman', Times, serif;
-    color:goldenrod;
-}
+
 h6{
     color: yellow;
     font-size:15px;
@@ -41,7 +38,7 @@ h3{
     font-size: 15px;
     font-style: italic;
 }
-.mar:hover{
+.mar{
       color:mediumorchid;
       font-family:'Times New Roman', Times, serif;
       font-size: 15px;
@@ -61,7 +58,7 @@ h3{
     font-size: 15px;
 }
 
-.tess:hover{
+.tess{
     color:darkblue;
     font-family:'Times New Roman', Times, serif;
     font-size: 15px;
@@ -81,7 +78,8 @@ h3{
 
 .anni{
 
-    color:coral;font-family:'Times New Roman', Times, serif;
+    color:coral;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 
 }
@@ -112,11 +110,7 @@ h3{
     font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
-.song{
-    color:gold;
-    font-family:'Times New Roman', Times, serif;
-    font-size: 15px;
-}
+
 .margiu{
     color: maroon;
     font-family:'Times New Roman', Times, serif;
