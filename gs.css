@@ -4,6 +4,7 @@
 
 .speech{
     color:black;
+    font-family:'Times New Roman', Times, serif;
     font-size:20px;
     text-decoration: solid;
 }
@@ -14,11 +15,23 @@
     text-decoration: solid;
     text-decoration-color: lightcoral;
 }
+.name{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
+.direction{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+
+}
 p:hover {
     background-color:green;
+    font-family:'Times New Roman', Times, serif;
     color:goldenrod;
 }
-h4{
+h6{
     color: yellow;
     font-size:15px;
     font-style: inherit;
@@ -30,70 +43,83 @@ h3{
 }
 .mar:hover{
       color:mediumorchid;
+      font-family:'Times New Roman', Times, serif;
       font-size: 15px;
 }
 
 .all{
 
     color:tomato;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 
 }
 .giu{
     
     color:indigo;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
 
 .tess:hover{
     color:darkblue;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
     background-color:orchid;
 }
 
 .gio{
     color:chocolate;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
 .gia{
     color:darkblue;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
 
 .anni{
 
-    color:coral;
+    color:coral;font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 
 }
 .cas{
     color:orange;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
 .luiz{
     color:lavender;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
 .fia{
     color:crimson;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
 .vit{
 
     color:orangered;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 
 }
 .chorus{
     color:cornflowerblue;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
 .song{
     color:gold;
+    font-family:'Times New Roman', Times, serif;
     font-size: 15px;
 }
 .margiu{
     color: maroon;
+    font-family:'Times New Roman', Times, serif;
     font-size:15px;
 }
 
