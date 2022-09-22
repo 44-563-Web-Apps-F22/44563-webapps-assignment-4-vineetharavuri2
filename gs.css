@@ -7,7 +7,7 @@
     font-family:'Times New Roman', Times, serif;
     font-size:20px;
     text-decoration: solid;
-    text-indent: 50px;
+    text-indent: 20px;
 }
 .song{
     color:black;
@@ -15,7 +15,7 @@
     font-size: 20px;
     text-decoration: solid;
     text-decoration-color: lightcoral;
-    text-indent: 40px;
+    text-indent: 50px;
 }
 .direction:hover{
     background-color:aquamarine;
